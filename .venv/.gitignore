@@ -1,0 +1,4 @@
+ .venv/
+  messages.jsonl
+  .env
+  __pycache__/
