@@ -19,6 +19,7 @@ def site_asset(filename):
         "style.css",
         "script.js",
         "francis-profile.png"
+         "googlea35038a42fae92d3.html"
     }:
         abort(404)
     return send_from_directory(app.root_path, filename)
